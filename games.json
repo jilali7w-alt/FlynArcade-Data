@@ -4,7 +4,15 @@
     "IconPath": "https://raw.githubusercontent.com/jilali7w-alt/FlynArcade-Data/main/Chess%20by%20Flyn.png",
     "Color": "#744520",
     "Version": "1.0.0",
-    "Publisher": "Flyn Arcade",
+    "Publisher": "Flyn Team",
     "Description": "A classic strategy game for everyone!"
+  }
+  {
+    "Title": "Breakout by Flyn",
+    "IconPath": "https://raw.githubusercontent.com/jilali7w-alt/FlynArcade-Data/main/breakout%20by%20flyn.png",
+    "Color": "#0C00FF",
+    "Version": "1.0.0",
+    "Publisher": "Flyn Team",
+    "Description": "Break the bricks, control the paddle, and chase high scores in this classic arcade-style Breakout game with smooth controls and addictive gameplay."
   }
 ]
