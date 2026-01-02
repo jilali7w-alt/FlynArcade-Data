@@ -14,5 +14,13 @@
     "Version": "1.0.0",
     "Publisher": "Flyn Team",
     "Description": "Break the bricks, control the paddle, and chase high scores in this classic arcade-style Breakout game with smooth controls and addictive gameplay."
+  },
+  {
+    "Title": "Flyn Web Browser",
+    "IconPath": "https://raw.githubusercontent.com/jilali7w-alt/FlynArcade-Data/main/Flyn%20Web%20Browser.png",
+    "Color": "#0000FF",
+    "Version": "1.0.0.2",
+    "Publisher": "Flyn Team",
+    "Description": "Explore the internet with Flyn WebBrowser For Windows 8.1."
   }
 ]
